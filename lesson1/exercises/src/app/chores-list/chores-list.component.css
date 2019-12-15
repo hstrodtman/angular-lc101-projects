@@ -1,0 +1,18 @@
+.chores {
+    font-family: Verdana; 
+    color: teal;  
+}
+
+li {
+    font-size: 20px; 
+    font-style: italic;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+/* Change the chore list text by adjusting the code in chores-list.component.css to accomplish the following:
+
+T
+The chores in the list should be italicized */
